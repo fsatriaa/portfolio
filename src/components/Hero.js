@@ -8,7 +8,7 @@ function Hero() {
         <div className="flex flex-wrap">
           <div className="w-full self-center px-4 lg:w-1/2">
             <h1 className="text-base font-semibold text-primary md:text-xl">
-              Hello World👋 My name
+              Hello World👋 my name is
               <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">
                 Febrinawan Satria Adhitama
               </span>
