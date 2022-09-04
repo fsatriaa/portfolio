@@ -29,7 +29,7 @@ function Hero() {
           </div>
           <div className="w-full self-end px-4 lg:w-1/2">
             <div className="relative mt-10 lg:mt-0 lg:right-0">
-              {/* <img src={hero} alt="Febrinawan" className="max-w-full mx-auto" /> */}
+              <img src={hero} alt="Febrinawan" className="max-w-full mx-auto" />
               <span className="absolute bottom-10 -z-10 left-1/2 -translate-x-1/2 md:scale-125">
                 <svg
                   viewBox="0 0 200 200"
