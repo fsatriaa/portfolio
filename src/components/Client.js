@@ -1,4 +1,3 @@
-import React from "react";
 import jic from "../dist/img/client/jic.png";
 import unicon from "../dist/img/client/unicon.png";
 import gym from "../dist/img/client/gym.png";

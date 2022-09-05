@@ -1,4 +1,3 @@
-import React from "react";
 import jic1 from "../dist/img/portfolio/jic1.jpg";
 import football1 from "../dist/img/portfolio/football1.png";
 import blankPortfolio from "../dist/img/portfolio/blank.png";

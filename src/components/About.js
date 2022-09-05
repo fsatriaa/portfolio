@@ -1,5 +1,3 @@
-import React from "react";
-
 function About() {
   return (
     <section id="about" className="pt-36 pb-32">
